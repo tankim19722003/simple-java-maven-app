@@ -29,5 +29,6 @@ pipeline {
             steps {
                 echo 'deploy to the server'
             }
+        }
     }
 }
