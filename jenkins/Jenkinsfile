@@ -25,9 +25,9 @@ pipeline {
             }
         }
 
-          stage('Completed') { 
+          stage('Completed 2') { 
             steps {
-                echo "Completed proccess"
+                echo "Completed proccess 2"
             }
         }
     }
